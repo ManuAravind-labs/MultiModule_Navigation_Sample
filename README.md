@@ -1,4 +1,4 @@
-# MultiModule_Navigation_Sample
+# MultiModule_Navigation
 Build a scalable multi-module application on Android
 
 
