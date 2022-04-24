@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android4you.feature2">
+    <application>
+        <activity
+            android:name=".Feature2Activity"/>
+    </application>
+</manifest>
