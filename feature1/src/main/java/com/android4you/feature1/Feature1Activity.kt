@@ -26,7 +26,7 @@ class Feature1Activity : BaseActivity() {
         }
 
         binding.buttonNavFeature2.setOnClickListener {
-            feature2ContractLauncher.launch(Feature2Contract.Args("Manu"))
+            feature2ContractLauncher.launch(Feature2Contract.Args("My Dummy data"))
         }
 
         binding.buttonNavFeature3.setOnClickListener {
